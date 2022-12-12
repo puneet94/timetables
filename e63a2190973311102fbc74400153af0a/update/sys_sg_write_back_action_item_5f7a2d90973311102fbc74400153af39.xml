@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Opportunities)</name>
+        <parameter_screen/>
+        <query_condition table="u_opportunities">sys_idSTARTSWITH{{Opportunities sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Opportunities sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 04:13:25</sys_created_on>
+        <sys_id>5f7a2d90973311102fbc74400153af39</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Opportunities)</sys_name>
+        <sys_package display_value="Timetables" source="e63a2190973311102fbc74400153af0a">e63a2190973311102fbc74400153af0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Timetables">e63a2190973311102fbc74400153af0a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_5f7a2d90973311102fbc74400153af39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 04:13:25</sys_updated_on>
+        <table>u_opportunities</table>
+        <template>u_nados_url={{Opportunities u_nados_url}}^u_name={{Opportunities u_name}}^u_order={{Opportunities u_order}}^u_subject_notes={{Opportunities u_subject_notes}}^u_url={{Opportunities u_url}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f7a2d90973311102fbc74400153af39"/>
+</record_update>
