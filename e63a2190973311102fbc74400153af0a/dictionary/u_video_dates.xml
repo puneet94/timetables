@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Video Dates" max_length="40" name="u_video_dates" sizeclass="105" type="collection">
+        <element label="Duration to Watch" max_length="40" name="u_duration_to_watch" type="string"/>
+        <element label="Video" max_length="32" name="u_video" reference="u_videos" type="reference"/>
+        <element label="Watch Date" max_length="40" name="u_watch_date" type="glide_date"/>
+        <index name="index">
+            <element name="u_video"/>
+        </index>
+    </element>
+</database>

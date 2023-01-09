@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Videos" max_length="40" name="u_videos" sizeclass="85" type="collection">
+        <element label="Finished" max_length="40" name="u_finished" type="boolean"/>
+        <element label="hours watched" max_length="40" name="u_hours_watched" type="integer"/>
+        <element label="minutes watched" max_length="40" name="u_minutes_watched" type="integer"/>
+        <element label="percent complete" max_length="15" name="u_percent_complete" type="percent_complete"/>
+        <element label="Subject" max_length="40" name="u_subject" type="string"/>
+        <element display="true" label="title" max_length="500" name="u_title" type="string"/>
+        <element label="Total duration" max_length="40" name="u_total_duration" type="integer"/>
+        <element label="URL" max_length="1024" name="u_url" type="url"/>
+    </element>
+</database>

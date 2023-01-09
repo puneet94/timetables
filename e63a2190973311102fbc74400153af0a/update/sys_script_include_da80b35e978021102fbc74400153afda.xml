@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.push_data</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>[&#13;
+    {&#13;
+        "title": "GMT20220903-145021_Recording_3840x2160.mp4",&#13;
+        "time": "4 49",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 17365,&#13;
+        "u_url": "https://www.youtube.com/watch?v=J4XFoIIHq5k&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=1&amp;t=16600s&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220905-150255_Recording_1920x1080.mp4",&#13;
+        "time": "2 1",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 7289,&#13;
+        "u_url": "https://www.youtube.com/watch?v=r0scY-WLst4&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=2&amp;t=3207s&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220906-150106_Recording_1920x1080.mp4",&#13;
+        "time": "3 44",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 13480,&#13;
+        "u_url": "https://www.youtube.com/watch?v=MqDzO9Mi1GY&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=3&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220912-144646_Recording_1920x1080.mp4",&#13;
+        "time": "4 47",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 17254,&#13;
+        "u_url": "https://www.youtube.com/watch?v=ajne_mleAdQ&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=10&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220914-151317_Recording_3840x2160.mp4",&#13;
+        "time": "3 51",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 13866,&#13;
+        "u_url": "https://www.youtube.com/watch?v=_8UzWdPJp7Q&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=9&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220916-144729_Recording_1920x1080.mp4",&#13;
+        "time": "3 57",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 14226,&#13;
+        "u_url": "https://www.youtube.com/watch?v=wdOTVCrzjBI&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=8&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220918-150850_Recording_1920x1080.mp4",&#13;
+        "time": "2 51",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 10306,&#13;
+        "u_url": "https://www.youtube.com/watch?v=a1UcCfr95ZY&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=7&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220920-144929_Recording_1920x1080.mp4",&#13;
+        "time": "4 17",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 15467,&#13;
+        "u_url": "https://www.youtube.com/watch?v=i2OLuogzlb8&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=6&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220924-143042_Recording_1920x1080.mp4",&#13;
+        "time": "4 30",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 16208,&#13;
+        "u_url": "https://www.youtube.com/watch?v=qvYQ16Nmdcg&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=5&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220926-144447_Recording_1920x1080.mp4",&#13;
+        "time": "3 57",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 14221,&#13;
+        "u_url": "https://www.youtube.com/watch?v=uSVSkIwCVEk&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=4&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    },&#13;
+    {&#13;
+        "title": "GMT20220928-150047_Recording_1920x1080.mp4",&#13;
+        "time": "3 34",&#13;
+        "u_subject": "DP",&#13;
+        "u_total_duration": 12851,&#13;
+        "u_url": "https://www.youtube.com/watch?v=4v5Nunrr8hg&amp;list=PLPTE_e0t7EjNyB-9Nnwo0DFV1QoWm9-D_&amp;index=11&amp;pp=sAQB",&#13;
+        "foundItem": null&#13;
+    }&#13;
+]</description>
+        <name>push_data</name>
+        <script><![CDATA[var push_data = Class.create();
+push_data.prototype = {
+	//new push_data().enterData();
+	initialize: function() {
+		this.data = [{"u_title":"GMT20221101 135454 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":11768,"u_url":"https://www.youtube.com/watch?v=2xpH-wz1fyA&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=1&pp=sAQB"},{"u_title":"GMT20221103 142522 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":10313,"u_url":"https://www.youtube.com/watch?v=5HX6BkFv-Ys&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=2&pp=sAQB"},{"u_title":"GMT20221026 142413 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":9831,"u_url":"https://www.youtube.com/watch?v=EvhJtZ3Mm4Q&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=3&pp=sAQB"},{"u_title":"GMT20221112 142207 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":11939,"u_url":"https://www.youtube.com/watch?v=Jchp1Wcm990&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=4&pp=sAQB"},{"u_title":"GMT20221029 142549 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":8506,"u_url":"https://www.youtube.com/watch?v=RJw7S3csnMY&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=5&pp=sAQB"},{"u_title":"GMT20221108 142559 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":12971,"u_url":"https://www.youtube.com/watch?v=apIOy459py8&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=6&pp=sAQB"},{"u_title":"GMT20221113 142743 Recording 1920x1080","u_subject":"Recursion Backtracking","u_total_duration":8824,"u_url":"https://www.youtube.com/watch?v=bDgbOiNkff8&list=PLPTE_e0t7EjM3uFGey3TOykz5VtvrFwib&index=7&pp=sAQB"}];
+
+    
+	},
+	enterData: function(){
+		for(var i=0;i<this.data.length;i++){
+			var u_videos = new GlideRecord("u_videos");
+
+			u_videos.initialize();
+			u_videos.u_title= this.data[i].u_title;
+
+			u_videos.u_subject = this.data[i].u_subject;
+			u_videos.u_total_duration =this.data[i].u_total_duration;
+			u_videos.u_url = this.data[i].u_url;
+			u_videos.u_finished = true;
+			u_videos.setWorkflow(false);
+			u_videos.insert();
+		}
+	},
+	type: 'push_data'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-12-31 05:29:10</sys_created_on>
+        <sys_id>da80b35e978021102fbc74400153afda</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>push_data</sys_name>
+        <sys_package display_value="Timetables" source="e63a2190973311102fbc74400153af0a">e63a2190973311102fbc74400153af0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Timetables">e63a2190973311102fbc74400153af0a</sys_scope>
+        <sys_update_name>sys_script_include_da80b35e978021102fbc74400153afda</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2023-01-01 11:01:00</sys_updated_on>
+    </sys_script_include>
+</record_update>
