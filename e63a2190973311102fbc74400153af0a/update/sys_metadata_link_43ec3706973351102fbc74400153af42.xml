@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b66b77d9977211102fbc74400153aff6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="u_timetable">
+    <u_timetable action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-27 00:17:46</sys_created_on>
+        <sys_id>b66b77d9977211102fbc74400153aff6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-27 00:18:06</sys_updated_on>
+        <u_opportunity display_value="Maximal Rectangle">735bf3d9977211102fbc74400153afcb</u_opportunity>
+        <u_revision_date>2022-12-03</u_revision_date>
+        <u_revision_status>incomplete</u_revision_status>
+        <u_revision_type>third_revision</u_revision_type>
+        <u_url/>
+    </u_timetable>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-12-18 01:22:34</sys_created_on>
+        <sys_id>43ec3706973351102fbc74400153af42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2022-10-27 11:17:46</sys_name>
+        <sys_package display_value="Timetables" source="e63a2190973311102fbc74400153af0a">e63a2190973311102fbc74400153af0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Timetables">e63a2190973311102fbc74400153af0a</sys_scope>
+        <sys_update_name>sys_metadata_link_43ec3706973351102fbc74400153af42</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2022-12-18 01:22:34</sys_updated_on>
+        <tablename>u_timetable</tablename>
+    </sys_metadata_link>
+</record_update>

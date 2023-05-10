@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Opportunities" max_length="40" name="u_opportunities" sizeclass="567" type="collection">
+        <element label="class date" max_length="40" name="u_class_date" type="glide_date"/>
+        <element label="class notes" max_length="40" name="u_class_notes" type="boolean"/>
+        <element label="self analysis notes" max_length="40" name="u_self_analysis_notes" type="boolean"/>
+    </element>
+</database>

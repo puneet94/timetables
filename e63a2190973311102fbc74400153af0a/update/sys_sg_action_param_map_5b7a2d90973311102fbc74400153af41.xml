@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Opportunities)">d77a2d90973311102fbc74400153af3d</button>
+        <item_parameter display_value="Opportunities u_nados_url">1f7a2d90973311102fbc74400153af3a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 04:13:25</sys_created_on>
+        <sys_id>5b7a2d90973311102fbc74400153af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1f7a2d90973311102fbc74400153af3a</sys_name>
+        <sys_package display_value="Timetables" source="e63a2190973311102fbc74400153af0a">e63a2190973311102fbc74400153af0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Timetables">e63a2190973311102fbc74400153af0a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_5b7a2d90973311102fbc74400153af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 04:13:25</sys_updated_on>
+        <ui_parameter display_value="nados url">977a2d90973311102fbc74400153af3e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
